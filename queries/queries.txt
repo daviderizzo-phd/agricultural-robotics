@@ -1,0 +1,23 @@
+[TITLE]
+[add information about the aim and the content of this file]
+
+Query27
+TITLE-ABS(robot*  W/3  (agric*  OR  farm*)  AND NOT  (pharm*  OR  paint*  OR cloth*)) OR AUTHKEY (robot* W/3 (agric* OR farm*)) AND PUBYEAR > 1981 AND PUBYEAR < 2021
+Date: 
+Number of results. N= 1,649
+[add a comment]
+
+Query28
+TITLE-ABS ( robot*  AND  ( agric*  OR  farm* )  AND NOT  ( pharm*  OR  paint*  OR  cloth* ) )  OR  AUTHKEY ( robot*  AND  ( agric*  OR  farm* ) )  AND  PUBYEAR  >  1981  AND  PUBYEAR  <  2021 
+Date: 2022-03-12
+Number of results. N=3,889 
+[add a comment]
+
+
+Query29
+TITLE-ABS ( robot*  AND  ( agric*  OR  farm* ) )  OR  AUTHKEY ( robot*  AND  ( agric*  OR  farm* ) )  AND  PUBYEAR  >  1981  AND  PUBYEAR  <  2021 
+Date: 2022-03-12
+Number of results. N=3,949 
+[add a comment]
+
+
